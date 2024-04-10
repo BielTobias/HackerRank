@@ -1,0 +1,15 @@
+.aprovado{
+    color: blue;
+}
+
+.reprovado{
+    color: red;
+}
+
+td{
+    margin: 5px;
+}
+
+table, td, th{
+    border: solid 1px black;
+}
